@@ -1,6 +1,6 @@
 ## Malaria in Africa Data Analysis
 
-###Project Overview
+### Project Overview
 This project aims to explore various aspects of malaria in Africa, including its incidence, the reported cases, and the impact of population distribution and access to basic services on the spread and control of the disease. Through data analysis and visualization, we seek to shed light on the dynamics of malaria and the efforts being undertaken to combat this devastating epidemic.
 
 ### Dataset
