@@ -24,7 +24,7 @@ This project aims to explore various aspects of malaria in Africa, including its
 
 
 ### Dataset Source
-The dataset can be accessed from Kaggle: 
+The dataset can be accessed from Kaggle: [Malaria in Africa](https://www.kaggle.com/datasets/lydia70/malaria-in-africa)
 
 ### Requirements
 To run the project, the following packages are needed:
